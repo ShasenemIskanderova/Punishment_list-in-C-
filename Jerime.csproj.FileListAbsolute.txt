@@ -1,0 +1,21 @@
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\bin\Debug\Jerime.exe
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\bin\Debug\Jerime.pdb
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\obj\x86\Debug\Jerime.Form1.resources
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\obj\x86\Debug\Jerime.Properties.Resources.resources
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\obj\x86\Debug\Jerime.exe
+C:\Users\Mekan\documents\visual studio 2010\Projects\Jerime\Jerime\obj\x86\Debug\Jerime.pdb
+C:\Users\User\Desktop\Jerime\Jerime\obj\x86\Debug\Jerime.exe
+C:\Users\User\Desktop\Jerime\Jerime\obj\x86\Debug\Jerime.pdb
+C:\Users\User\Desktop\konspekt_gulya\Jerime\Jerime\obj\x86\Debug\Jerime.exe
+C:\Users\User\Desktop\konspekt_gulya\Jerime\Jerime\obj\x86\Debug\Jerime.pdb
+C:\Users\User\Desktop\konspekt_gulya\Jerime\Jerime\bin\Debug\Jerime.exe
+C:\Users\User\Desktop\konspekt_gulya\Jerime\Jerime\bin\Debug\Jerime.pdb
+C:\Users\User\Desktop\konspekt_gulya\Jerime\Jerime\obj\x86\Debug\Jerime.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\konspekt_gulya\Jerime\Jerime\obj\x86\Debug\Jerime.Form1.resources
+C:\Users\User\Desktop\konspekt_gulya\Jerime\Jerime\obj\x86\Debug\Jerime.Properties.Resources.resources
+C:\Users\User\Desktop\konspekt_gulya\Jerime\Jerime\obj\x86\Debug\Jerime.csproj.GenerateResource.Cache
+F:\Jerime\Jerime\obj\x86\Debug\Jerime.exe
+F:\Jerime\Jerime\obj\x86\Debug\Jerime.pdb
